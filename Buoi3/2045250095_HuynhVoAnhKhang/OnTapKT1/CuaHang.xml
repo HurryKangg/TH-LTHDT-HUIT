@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CuaHang>
+	<TenCuaHang>THE GIOI NHA HURRYKANGG</TenCuaHang>
+	<DiaChi>120/3b Tân Phú, Phường Tây Thạnh</DiaChi>
+	<DSDienThoai>
+		<DienThoai>
+			<MaMay>DT001</MaMay>
+			<TenMay>Iphone 18 Pro Max</TenMay>
+			<Gia>45000000</Gia>
+			<SoLuongTon>10</SoLuongTon>
+			<Hang>Apple</Hang>
+		</DienThoai>
+		<DienThoai>
+			<MaMay>DT002</MaMay>
+			<TenMay>Samsung Galaxy S25 Ultra</TenMay>
+			<Gia>38000000</Gia>
+			<SoLuongTon>20</SoLuongTon>
+			<Hang>Samsung</Hang>
+		</DienThoai>
+		<DienThoai>
+			<MaMay>DT003</MaMay>
+			<TenMay>Xiaomi 15 Pro</TenMay>
+			<Gia>22000000</Gia>
+			<SoLuongTon>70</SoLuongTon>
+			<Hang>Xiaomi</Hang>
+		</DienThoai>
+		<DienThoai>
+			<MaMay>DT004</MaMay>
+			<TenMay>Oppo Find X8</TenMay>
+			<Gia>25000000</Gia>
+			<SoLuongTon>40</SoLuongTon>
+			<Hang>Oppo</Hang>
+		</DienThoai>
+		<DienThoai>
+			<MaMay>DT005</MaMay>
+			<TenMay>Vivo X200 Pro</TenMay>
+			<Gia>28000000</Gia>
+			<SoLuongTon>55</SoLuongTon>
+			<Hang>Vivo</Hang>
+		</DienThoai>
+	</DSDienThoai>
+</CuaHang>

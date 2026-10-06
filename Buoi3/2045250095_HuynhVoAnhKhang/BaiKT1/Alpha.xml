@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Alpha>
+	<DiaChi>140 Lê Trọng Tấn, Tân Phú, TP.HCM</DiaChi>
+	<MaSoThue>0301234567</MaSoThue>
+	<CacXe>
+		<Xe>
+			<SoKhung>T0001</SoKhung>
+			<SoMay>A0001</SoMay>
+			<SoChoNgoi>1</SoChoNgoi>
+			<DongCoDien>1</DongCoDien>
+			<CongSuatCucDai>150</CongSuatCucDai>
+		</Xe>
+		<Xe>
+			<SoKhung>T0002</SoKhung>
+			<SoMay>A0002</SoMay>
+			<SoChoNgoi>7</SoChoNgoi>
+			<DongCoDien>1</DongCoDien>
+			<CongSuatCucDai>200</CongSuatCucDai>
+		</Xe>
+		<Xe>
+			<SoKhung>T0003</SoKhung>
+			<SoMay>A0003</SoMay>
+			<SoChoNgoi>4</SoChoNgoi>
+			<DongCoDien>0</DongCoDien>
+			<CongSuatCucDai>120</CongSuatCucDai>
+		</Xe>
+		<Xe>
+			<SoKhung>T0004</SoKhung>
+			<SoMay>A0004</SoMay>
+			<SoChoNgoi>9</SoChoNgoi>
+			<DongCoDien>1</DongCoDien>
+			<CongSuatCucDai>250</CongSuatCucDai>
+		</Xe>
+		<Xe>
+			<SoKhung>T0005</SoKhung>
+			<SoMay>A0005</SoMay>
+			<SoChoNgoi>2</SoChoNgoi>
+			<DongCoDien>0</DongCoDien>
+			<CongSuatCucDai>150</CongSuatCucDai>
+		</Xe>
+	</CacXe>
+</Alpha>

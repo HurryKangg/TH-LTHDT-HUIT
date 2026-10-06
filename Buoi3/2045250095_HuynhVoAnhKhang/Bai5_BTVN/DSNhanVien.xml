@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CongTy>
+	<TenCongTy>Công Ty TNHH ABC</TenCongTy>
+	<DiaChi>140 Lê Trọng Tấn, Tân Phú, TP.HCM</DiaChi>
+	<SDT>02838123456</SDT>
+	<DSNhanVien>
+		<NhanVien Ma="NV001">
+			<Ten>Nguyễn Văn An</Ten>
+			<Phong>Kế Toán</Phong>
+			<ChucVu>Lãnh đạo</ChucVu>
+			<HeSoLuong>4.5</HeSoLuong>
+			<ThamNienCongTac>10</ThamNienCongTac>
+			<SoNgayLamViecTheoThang>9</SoNgayLamViecTheoThang>
+		</NhanVien>
+		<NhanVien Ma="NV002">
+			<Ten>Trần Thị Bình</Ten>
+			<Phong>Nhân Sự</Phong>
+			<ChucVu>Nhân viên</ChucVu>
+			<HeSoLuong>3.2</HeSoLuong>
+			<ThamNienCongTac>5</ThamNienCongTac>
+			<SoNgayLamViecTheoThang>24</SoNgayLamViecTheoThang>
+		</NhanVien>
+		<NhanVien Ma="NV003">
+			<Ten>Lê Văn Cường</Ten>
+			<Phong>Kỹ Thuật</Phong>
+			<ChucVu>Lãnh đạo</ChucVu>
+			<HeSoLuong>5.0</HeSoLuong>
+			<ThamNienCongTac>12</ThamNienCongTac>
+			<SoNgayLamViecTheoThang>28</SoNgayLamViecTheoThang>
+		</NhanVien>
+		<NhanVien Ma="NV004">
+			<Ten>Phạm Thị Dung</Ten>
+			<Phong>Kinh Doanh</Phong>
+			<ChucVu>Nhân viên</ChucVu>
+			<HeSoLuong>2.8</HeSoLuong>
+			<ThamNienCongTac>3</ThamNienCongTac>
+			<SoNgayLamViecTheoThang>22</SoNgayLamViecTheoThang>
+		</NhanVien>
+		<NhanVien Ma="NV005">
+			<Ten>Hoàng Văn Em</Ten>
+			<Phong>Kỹ Thuật</Phong>
+			<ChucVu>Nhân viên</ChucVu>
+			<HeSoLuong>3.8</HeSoLuong>
+			<ThamNienCongTac>6</ThamNienCongTac>
+			<SoNgayLamViecTheoThang>25</SoNgayLamViecTheoThang>
+		</NhanVien>
+		<NhanVien Ma="NV006">
+			<Ten>Vũ Thị Phương</Ten>
+			<Phong>Kế Toán</Phong>
+			<ChucVu>Nhân viên</ChucVu>
+			<HeSoLuong>2.5</HeSoLuong>
+			<ThamNienCongTac>2</ThamNienCongTac>
+			<SoNgayLamViecTheoThang>23</SoNgayLamViecTheoThang>
+		</NhanVien>
+		<NhanVien Ma="NV007">
+			<Ten>Đặng Minh Khang</Ten>
+			<Phong>Kỹ Thuật</Phong>
+			<ChucVu>Nhân viên</ChucVu>
+			<HeSoLuong>3.8</HeSoLuong>
+			<ThamNienCongTac>6</ThamNienCongTac>
+			<SoNgayLamViecTheoThang>25</SoNgayLamViecTheoThang>
+		</NhanVien>
+	</DSNhanVien>
+</CongTy>

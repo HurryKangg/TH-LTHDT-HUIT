@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TrungTam>
+	<ThiSinh SoBaoDanh ="TS001">
+		<TenThiSinh>Nguyen Van An</TenThiSinh>
+		<NamSinh>2005</NamSinh>
+		<DiemThiLT>8.5</DiemThiLT>
+		<DiemThucHanh1>7.0</DiemThucHanh1>
+		<DiemThucHanh2>8.0</DiemThucHanh2>
+	</ThiSinh>
+	<ThiSinh SoBaoDanh ="TS002">
+		<TenThiSinh>Tran Thi Binh</TenThiSinh>
+		<NamSinh>2005</NamSinh>
+		<DiemThiLT>6.0</DiemThiLT>
+		<DiemThucHanh1>5.5</DiemThucHanh1>
+		<DiemThucHanh2>6.5</DiemThucHanh2>
+	</ThiSinh>
+	<ThiSinh SoBaoDanh ="TS003">
+		<TenThiSinh>Le Van Cuong</TenThiSinh>
+		<NamSinh>2004</NamSinh>
+		<DiemThiLT>9.0</DiemThiLT>
+		<DiemThucHanh1>8.5</DiemThucHanh1>
+		<DiemThucHanh2>9.5</DiemThucHanh2>
+	</ThiSinh>
+	<ThiSinh SoBaoDanh ="TS004">
+		<TenThiSinh>Pham Thi Dung</TenThiSinh>
+		<NamSinh>2006</NamSinh>
+		<DiemThiLT>4.5</DiemThiLT>
+		<DiemThucHanh1>5.0</DiemThucHanh1>
+		<DiemThucHanh2>4.0</DiemThucHanh2>
+	</ThiSinh>
+	<ThiSinh SoBaoDanh ="TS005">
+		<TenThiSinh>Hoang Van Em</TenThiSinh>
+		<NamSinh>2005</NamSinh>
+		<DiemThiLT>7.5</DiemThiLT>
+		<DiemThucHanh1>7.0</DiemThucHanh1>
+		<DiemThucHanh2>3.5</DiemThucHanh2>
+	</ThiSinh>
+	<ThiSinh SoBaoDanh ="TS006">
+		<TenThiSinh>Vu Thi Phuong</TenThiSinh>
+		<NamSinh>2004</NamSinh>
+		<DiemThiLT>5.5</DiemThiLT>
+		<DiemThucHanh1>6.0</DiemThucHanh1>
+		<DiemThucHanh2>5.0</DiemThucHanh2>
+	</ThiSinh>
+	<ThiSinh SoBaoDanh ="TS007">
+		<TenThiSinh>Dang Van Giang</TenThiSinh>
+		<NamSinh>2006</NamSinh>
+		<DiemThiLT>8.0</DiemThiLT>
+		<DiemThucHanh1>9.0</DiemThucHanh1>
+		<DiemThucHanh2>8.5</DiemThucHanh2>
+	</ThiSinh>
+	<ThiSinh SoBaoDanh ="TS008">
+		<TenThiSinh>Bui Thi Hoa</TenThiSinh>
+		<NamSinh>2005</NamSinh>
+		<DiemThiLT>3.5</DiemThiLT>
+		<DiemThucHanh1>4.0</DiemThucHanh1>
+		<DiemThucHanh2>3.0</DiemThucHanh2>
+	</ThiSinh>
+	<ThiSinh SoBaoDanh ="TS009">
+		<TenThiSinh>Ngo Van Hung</TenThiSinh>
+		<NamSinh>2004</NamSinh>
+		<DiemThiLT>3.0</DiemThiLT>
+		<DiemThucHanh1>7.5</DiemThucHanh1>
+		<DiemThucHanh2>4.0</DiemThucHanh2>
+	</ThiSinh>
+	<ThiSinh SoBaoDanh ="TS010">
+		<TenThiSinh>Ngo Van Hung</TenThiSinh>
+		<NamSinh>2006</NamSinh>
+		<DiemThiLT>9.5</DiemThiLT>
+		<DiemThucHanh1>9.0</DiemThucHanh1>
+		<DiemThucHanh2>6.0</DiemThucHanh2>
+	</ThiSinh>
+</TrungTam>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KhuTro>
+	<Ten>Khu Tro Sinh Vien ABC</Ten>
+	<DiaChi>140 Le Trong Tan, Tan Phu, TP.HCM</DiaChi>
+	<DsPhong>
+		<Phong>
+			<Loai>1</Loai>
+			<MaP>PT01</MaP>
+			<SoLuong>3</SoLuong>
+			<SoDien>50</SoDien>
+			<Gia>1500000</Gia>
+		</Phong>
+		<Phong>
+			<Loai>0</Loai>
+			<MaP>PT02</MaP>
+			<SoLuong>2</SoLuong>
+			<SoDien>30</SoDien>
+			<Gia>1200000</Gia>
+		</Phong>
+		<Phong>
+			<Loai>1</Loai>
+			<MaP>PT03</MaP>
+			<SoLuong>4</SoLuong>
+			<SoDien>70</SoDien>
+			<Gia>1800000</Gia>
+		</Phong>
+		<Phong>
+			<Loai>0</Loai>
+			<MaP>PT04</MaP>
+			<SoLuong>2</SoLuong>
+			<SoDien>25</SoDien>
+			<Gia>1100000</Gia>
+		</Phong>
+		<Phong>
+			<Loai>1</Loai>
+			<MaP>PT05</MaP>
+			<SoLuong>3</SoLuong>
+			<SoDien>60</SoDien>
+			<Gia>1600000</Gia>
+		</Phong>
+	</DsPhong>
+</KhuTro>

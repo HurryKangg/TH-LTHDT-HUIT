@@ -1,0 +1,8 @@
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi1_BTVN\2045250095_HuynhVoAnhKhang\Bai6\bin\Debug\Bai6.exe.config
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi1_BTVN\2045250095_HuynhVoAnhKhang\Bai6\bin\Debug\Bai6.exe
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi1_BTVN\2045250095_HuynhVoAnhKhang\Bai6\bin\Debug\Bai6.pdb
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi1_BTVN\2045250095_HuynhVoAnhKhang\Bai6\obj\Debug\Bai6,7.csproj.AssemblyReference.cache
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi1_BTVN\2045250095_HuynhVoAnhKhang\Bai6\obj\Debug\Bai6,7.csproj.CoreCompileInputs.cache
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi1_BTVN\2045250095_HuynhVoAnhKhang\Bai6\obj\Debug\Bai6.exe
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi1_BTVN\2045250095_HuynhVoAnhKhang\Bai6\obj\Debug\Bai6.pdb
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi1_BTVN\2045250095_HuynhVoAnhKhang\Bai6\obj\Debug\Bai6.exe.config

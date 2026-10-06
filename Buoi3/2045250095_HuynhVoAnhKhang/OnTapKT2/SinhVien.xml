@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QuanLySinhVien>
+	<SinhVien MaSV="SV000001">				 
+		<HoTen>Nguyễn Văn An</HoTen>
+		<GPA>9.2</GPA>
+		<SoTinChi>120</SoTinChi>
+		<Khoa>Công nghệ thông tin</Khoa>
+	</SinhVien>
+	<SinhVien MaSV="SV000001">
+		<HoTen>Trần Thị Bình</HoTen>
+		<GPA>8.5</GPA>
+		<SoTinChi>115</SoTinChi>
+		<Khoa>Kinh tế</Khoa>
+	</SinhVien>
+	<SinhVien MaSV ="SV000001">
+		<HoTen>Vũ Thị Phương</HoTen>
+		<GPA>8.9</GPA>
+		<SoTinChi>118</SoTinChi>
+		<Khoa>Công nghệ thông tin</Khoa>
+	</SinhVien>
+	<SinhVien MaSV="SV000002">
+		<HoTen>Lê Hoàng Cường</HoTen>
+		<GPA>8.9</GPA>
+		<SoTinChi>110</SoTinChi>
+		<Khoa>Công nghệ thông tin</Khoa>
+		<Phai>Nam</Phai>
+		<Nganh>Khoa học dữ liệu</Nganh>
+	</SinhVien>
+	<SinhVien MaSV="SV000002">
+		<HoTen>Phạm Thị Dung</HoTen>
+		<GPA>6.5</GPA>
+		<SoTinChi>95</SoTinChi>
+		<Khoa>Ngoại ngữ</Khoa>
+		<Phai>Nữ</Phai>
+		<Nganh>Ngôn ngữ Trung</Nganh>
+	</SinhVien>
+	<SinhVien MaSV ="SV000002">
+		<HoTen>Hoàng Văn Em</HoTen>
+		<GPA>5.2</GPA>
+		<SoTinChi>80</SoTinChi>
+		<Khoa>Kinh tế</Khoa>
+		<Phai>Nữ</Phai>
+		<Nganh>Kế Toán</Nganh>
+	</SinhVien>
+
+</QuanLySinhVien>

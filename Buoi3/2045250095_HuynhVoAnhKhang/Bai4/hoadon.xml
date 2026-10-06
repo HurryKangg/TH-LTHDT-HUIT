@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hoadon>
+	<mahd>HD001</mahd>
+	<tenkh>HUỲNH VÕ ANH KHANG</tenkh>
+	<ctbhs>
+		<ctbh>
+			<masp>SP0011</masp>
+			<tensp>Gao ST25</tensp>
+			<gia>15000</gia>
+			<sl>10</sl>
+		</ctbh>
+		<ctbh>
+			<masp>SP0021</masp>
+			<tensp>Dau an Tuong An</tensp>
+			<gia>35000</gia>
+			<sl>2</sl>
+		</ctbh>
+		<ctbh>
+			<masp>SP0031</masp>
+			<tensp>Nuoc mam Phu Quoc</tensp>
+			<gia>35000</gia>
+			<sl>3</sl>
+		</ctbh>
+		<ctbh>
+			<masp>SP0241</masp>
+			<tensp>Banh trung thu</tensp>
+			<gia>120000</gia>
+			<sl>3</sl>
+		</ctbh>
+		<ctbh>
+			<masp>SP0251</masp>
+			<tensp>Tra hoa cuc</tensp>
+			<gia>40000</gia>
+			<sl>2</sl>
+		</ctbh>
+		<ctbh>
+			<masp>SP0261</masp>
+			<tensp>Ca phe sua</tensp>
+			<gia>25000</gia>
+			<sl>5</sl>
+		</ctbh>
+	</ctbhs>
+</hoadon>
+

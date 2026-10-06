@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Khoa>
+	<GiangVien>
+		<HoTenGV>Lâm Thị Họa Mi</HoTenGV>
+		<SoNhomHD>3</SoNhomHD>
+	</GiangVien>
+	<GiangVien>
+		<HoTenGV>Dương Thị Mộng Thùy</HoTenGV>
+		<SoNhomHD>3</SoNhomHD>
+	</GiangVien>
+	<GiangVien>
+		<HoTenGV>Vũ Văn Ninh</HoTenGV>
+		<SoNhomHD>1</SoNhomHD>
+	</GiangVien>
+	<GiangVien>
+		<HoTenGV>Lương Thái Hiền</HoTenGV>
+		<SoNhomHD>2</SoNhomHD>
+	</GiangVien>
+
+	<GiangVien>
+		<HoTenGV>Trần Văn Thọ</HoTenGV>
+		<SoNhomHD>4</SoNhomHD>
+	</GiangVien>
+</Khoa>
