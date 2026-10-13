@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachNhanVien>
+	<NhanVien loai="1">
+		<MaNV>NV002</MaNV>
+		<TenNV>Tran Thi Binh</TenNV>
+		<HeSoLuong>2.34</HeSoLuong>
+	</NhanVien>
+	<NhanVien loai="1">
+		<MaNV>NV003</MaNV>
+		<TenNV>Le Hoang Cuong</TenNV>
+		<HeSoLuong>3.50</HeSoLuong>
+	</NhanVien>
+	<NhanVien loai="1">
+		<MaNV>NV004</MaNV>
+		<TenNV>Pham Thi Dung</TenNV>
+		<HeSoLuong>2.67</HeSoLuong>
+	</NhanVien>
+	<NhanVien loai="2">
+		<MaNV>NV009</MaNV>
+		<TenNV>Dieu Hien</TenNV>
+		<HeSoLuong>4.67</HeSoLuong>
+		<ChucVu>Giam doc</ChucVu>
+		<ThamNienQuanLy>10</ThamNienQuanLy>
+	</NhanVien>
+	<NhanVien loai="2">
+		<MaNV>NV010</MaNV>
+		<TenNV>Nguyen Van An</TenNV>
+		<HeSoLuong>3.80</HeSoLuong>
+		<ChucVu>Truong phong</ChucVu>
+		<ThamNienQuanLy>5</ThamNienQuanLy>
+	</NhanVien>
+	<NhanVien loai ="2"> 
+		<MaNV>NV011</MaNV>
+		<TenNV>Hoang Thi Em</TenNV>
+		<HeSoLuong>3.20</HeSoLuong>
+		<ChucVu>Pho phong</ChucVu>
+		<ThamNienQuanLy>3</ThamNienQuanLy>
+	</NhanVien>
+</DanhSachNhanVien>

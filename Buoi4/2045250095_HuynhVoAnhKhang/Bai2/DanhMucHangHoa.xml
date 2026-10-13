@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhMucHangHoa>
+	<NuocGiaiKhat>
+		<MaHang>HH001</MaHang>
+		<TenHang>Coca Cola</TenHang>
+		<DonViTinh>Lon</DonViTinh>
+		<SoLuong>240</SoLuong>
+		<DonGia>10000</DonGia>
+	</NuocGiaiKhat>
+	<NuocGiaiKhat>
+		<MaHang>HH002</MaHang>
+		<TenHang>Pepsi</TenHang>
+		<DonViTinh>Chai</DonViTinh>
+		<SoLuong>100</SoLuong>
+		<DonGia>15000</DonGia>
+	</NuocGiaiKhat>
+	<NuocGiaiKhat>
+		<MaHang>HH003</MaHang>
+		<TenHang>Trà Xanh 0 Do</TenHang>
+		<DonViTinh>Thung</DonViTinh>
+		<SoLuong>10</SoLuong>
+		<DonGia>120000</DonGia>
+	</NuocGiaiKhat>
+	<NuocGiaiKhat>
+		<MaHang>HH004</MaHang>
+		<TenHang>Sting</TenHang>
+		<DonViTinh>Lon</DonViTinh>
+		<SoLuong>120</SoLuong>
+		<DonGia>12000</DonGia>
+	</NuocGiaiKhat>
+	<NuocGiaiKhat>
+		<MaHang>HH005</MaHang>
+		<TenHang>Number 1</TenHang>
+		<DonViTinh>Ket</DonViTinh>
+		<SoLuong>5</SoLuong>
+		<DonGia>180000</DonGia>
+	</NuocGiaiKhat>
+	<NuocGiaiKhat>
+		<MaHang>HH006</MaHang>
+		<TenHang>Aquafina</TenHang>
+		<DonViTinh>Chai</DonViTinh>
+		<SoLuong>200</SoLuong>
+		<DonGia>5000</DonGia>
+	</NuocGiaiKhat>
+</DanhMucHangHoa>

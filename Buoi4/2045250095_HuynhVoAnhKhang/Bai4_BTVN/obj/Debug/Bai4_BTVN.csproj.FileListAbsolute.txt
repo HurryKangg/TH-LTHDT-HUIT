@@ -1,0 +1,8 @@
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi4\2045250095_HuynhVoAnhKhang\Bai4_BTVN\bin\Debug\Bai4_BTVN.exe.config
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi4\2045250095_HuynhVoAnhKhang\Bai4_BTVN\bin\Debug\Bai4_BTVN.exe
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi4\2045250095_HuynhVoAnhKhang\Bai4_BTVN\bin\Debug\Bai4_BTVN.pdb
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi4\2045250095_HuynhVoAnhKhang\Bai4_BTVN\obj\Debug\Bai4_BTVN.csproj.AssemblyReference.cache
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi4\2045250095_HuynhVoAnhKhang\Bai4_BTVN\obj\Debug\Bai4_BTVN.csproj.CoreCompileInputs.cache
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi4\2045250095_HuynhVoAnhKhang\Bai4_BTVN\obj\Debug\Bai4_BTVN.exe
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi4\2045250095_HuynhVoAnhKhang\Bai4_BTVN\obj\Debug\Bai4_BTVN.pdb
+D:\TH-LTHDT_2045250095_HuynhVoAnhKhang\Buoi4\2045250095_HuynhVoAnhKhang\Bai4_BTVN\obj\Debug\Bai4_BTVN.exe.config

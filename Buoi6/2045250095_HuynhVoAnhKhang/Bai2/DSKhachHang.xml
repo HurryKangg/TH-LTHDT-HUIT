@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CongTy>
+
+	<TenCongTy>Cong Ty TNHH May Lanh ABC</TenCongTy>
+	<DienThoai>028-1234-5678</DienThoai>
+	<DiaChi>123 Nguyen Van Linh, Quan 7, TP.HCM</DiaChi>	
+
+	<DanhSachHoaDon>
+
+		<!-- ============================================ -->
+		<!-- KHÁCH HÀNG CÁ NHÂN (LoaiKH = 1)              -->
+		<!-- ============================================ -->
+		<HoaDon>
+			<LoaiKH>1</LoaiKH>
+			<MaKH>KH001</MaKH>
+			<TenKH>Nguyen Van An</TenKH>
+			<SoLuong>3</SoLuong>
+			<GiaBan>8000000</GiaBan>
+			<KhoangCach>8</KhoangCach>
+		</HoaDon>
+
+		<HoaDon>
+			<LoaiKH>1</LoaiKH>
+			<MaKH>KH002</MaKH>
+			<TenKH>Tran Thi Binh</TenKH>
+			<SoLuong>6</SoLuong>
+			<GiaBan>9500000</GiaBan>
+			<KhoangCach>15</KhoangCach>
+		</HoaDon>
+
+		<!-- ============================================ -->
+		<!-- ĐẠI LÝ CẤP 1 (LoaiKH = 2)                    -->
+		<!-- ============================================ -->
+		<HoaDon>
+			<LoaiKH>2</LoaiKH>
+			<MaKH>DL001</MaKH>
+			<TenKH>Dai Ly Dien Lanh Mien Nam</TenKH>
+			<SoLuong>20</SoLuong>
+			<GiaBan>7500000</GiaBan>
+			<ThoiGianHopTac>5</ThoiGianHopTac>
+		</HoaDon>
+
+		<HoaDon>
+			<LoaiKH>2</LoaiKH>
+			<MaKH>DL002</MaKH>
+			<TenKH>Dai Ly Dien Lanh Mien Bac</TenKH>
+			<SoLuong>15</SoLuong>
+			<GiaBan>7800000</GiaBan>
+			<ThoiGianHopTac>2</ThoiGianHopTac>
+		</HoaDon>
+
+		<!-- ============================================ -->
+		<!-- KHÁCH HÀNG CÔNG TY (LoaiKH = 3)              -->
+		<!-- ============================================ -->
+		<HoaDon>
+			<LoaiKH>3</LoaiKH>
+			<MaKH>CT001</MaKH>
+			<TenKH>Cong Ty CP Xay Dung Hoa Binh</TenKH>
+			<SoLuong>50</SoLuong>
+			<GiaBan>8200000</GiaBan>
+			<SoLuongNhanVien>1500</SoLuongNhanVien>
+		</HoaDon>
+
+		<HoaDon>
+			<LoaiKH>3</LoaiKH>
+			<MaKH>CT002</MaKH>
+			<TenKH>Tap Doan VinGroup</TenKH>
+			<SoLuong>120</SoLuong>
+			<GiaBan>8500000</GiaBan>
+			<SoLuongNhanVien>6000</SoLuongNhanVien>
+		</HoaDon>
+
+	</DanhSachHoaDon>
+
+</CongTy>

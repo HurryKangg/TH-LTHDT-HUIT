@@ -35,7 +35,7 @@ namespace Bai1
             set { soNganhKhoaQL = value; }
         }
 
-        private List<GiangVien> listGV;
+        List<GiangVien> listGV;
         public List<GiangVien> ListGV
         {
             get { return listGV; }

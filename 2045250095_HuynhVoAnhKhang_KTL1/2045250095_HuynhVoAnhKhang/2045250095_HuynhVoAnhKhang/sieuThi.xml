@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<sieuThi>
+	<tensieuthi>Siêu thị ABC</tensieuthi>
+	<diachi>123 Nguyễn Huệ, TP.HCM</diachi>
+	<dssanpham>
+		<sanpham>
+			<ma>SP101</ma>
+			<ten>Laptop Dell</ten>
+			<soluong>5</soluong>
+			<dongia>15000000</dongia>
+			<songaybaoquan>10</songaybaoquan>
+		</sanpham>
+		<sanpham>
+			<ma>SP102</ma>
+			<ten>Điện thoại Samsung</ten>
+			<soluong>10</soluong>
+			<dongia>12000000</dongia>
+			<songaybaoquan>7</songaybaoquan>
+		</sanpham>
+		<sanpham>
+			<ma>SP103</ma>
+			<ten>Điện thoại Iphone 15 Pro max</ten>
+			<soluong>5</soluong>
+			<dongia>10000000</dongia>
+			<songaybaoquan>10</songaybaoquan>
+		</sanpham>
+		<sanpham>
+			<ma>SP104</ma>
+			<ten>Điện thoại Xiaomi</ten>
+			<soluong>3</soluong>
+			<dongia>89000000</dongia>
+			<songaybaoquan>5</songaybaoquan>
+		</sanpham>
+		<sanpham>
+			<ma>SP105</ma>
+			<ten>Điện thoại Oppo</ten>
+			<soluong>7</soluong>
+			<dongia>8000000</dongia>
+			<songaybaoquan>8</songaybaoquan>
+		</sanpham>
+	</dssanpham>
+</sieuThi>

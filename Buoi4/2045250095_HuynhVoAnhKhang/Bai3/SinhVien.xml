@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachSinhVien>
+	<SinhVien>
+		<HoTen>Nguyen Van An</HoTen>
+		<NgaySinh>15/03/2004</NgaySinh>
+		<GioiTinh>Nam</GioiTinh>
+		<MaSoSinhVien>SV001</MaSoSinhVien>
+		<HeDaoTao>Dai hoc</HeDaoTao>
+		<TongSoTinChi>150</TongSoTinChi>
+	</SinhVien>
+	<SinhVien>
+		<HoTen>Tran Thi Binh</HoTen>
+		<NgaySinh>22/07/2004</NgaySinh>
+		<GioiTinh>Nu</GioiTinh>
+		<MaSoSinhVien>SV002</MaSoSinhVien>
+		<HeDaoTao>Dai hoc</HeDaoTao>
+		<TongSoTinChi>150</TongSoTinChi>
+	</SinhVien>
+	<SinhVien>
+		<HoTen>Le Hoang Cuong</HoTen>
+		<NgaySinh>10/11/2003</NgaySinh>
+		<GioiTinh>Nam</GioiTinh>
+		<MaSoSinhVien>SV003</MaSoSinhVien>
+		<HeDaoTao>Cao dang</HeDaoTao>
+		<TongSoTinChi>100</TongSoTinChi>
+	</SinhVien>
+	<SinhVien>
+		<HoTen>Pham Thi Dung</HoTen>
+		<NgaySinh>05/01/2005</NgaySinh>
+		<GioiTinh>Nu</GioiTinh>
+		<MaSoSinhVien>SV004</MaSoSinhVien>
+		<HeDaoTao>Cao dang nghe</HeDaoTao>
+		<TongSoTinChi>130</TongSoTinChi>
+	</SinhVien>
+	<SinhVien>
+		<HoTen>Hoang Van Em</HoTen>
+		<NgaySinh>18/09/2003</NgaySinh>
+		<GioiTinh>Nam</GioiTinh>
+		<MaSoSinhVien>SV005</MaSoSinhVien>
+		<HeDaoTao>Dai hoc</HeDaoTao>
+		<TongSoTinChi>150</TongSoTinChi>
+	</SinhVien>
+	<SinhVien>
+		<HoTen>Vu Thi Phuong</HoTen>
+		<NgaySinh>30/12/2004</NgaySinh>
+		<GioiTinh>Nu</GioiTinh>
+		<MaSoSinhVien>SV006</MaSoSinhVien>
+		<HeDaoTao>Cao dang</HeDaoTao>
+		<TongSoTinChi>100</TongSoTinChi>
+	</SinhVien>
+</DanhSachSinhVien>
