@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TongCongTy>
+	<CongTyABC ct="ABC">
+		<NhanVienSanXuat loai="1">
+			<MaNV>NV001</MaNV>
+			<TenNV>Nguyen Van A</TenNV>
+			<NamSinh>1990</NamSinh>
+			<GioiTinh>Nam</GioiTinh>
+			<HeSoLuong>2.5</HeSoLuong>
+			<NamVaoLam>2015</NamVaoLam>
+			<SoNgayNghi>1</SoNgayNghi>
+		</NhanVienSanXuat>
+		<NhanVienKinhDoanh loai="2">
+			<MaNV>NV002</MaNV>
+			<TenNV>Tran Thi B</TenNV>
+			<NamSinh>1992</NamSinh>
+			<GioiTinh>Nu</GioiTinh>
+			<HeSoLuong>2.0</HeSoLuong>
+			<NamVaoLam>2018</NamVaoLam>
+			<DoanhSoToiThieu>100</DoanhSoToiThieu>
+			<DoanhSoThang>250</DoanhSoThang>
+		</NhanVienKinhDoanh>
+		<CanBoQuanLy loai="3">
+			<MaNV>NV003</MaNV>
+			<TenNV>Le Van C</TenNV>
+			<NamSinh>1980</NamSinh>
+			<GioiTinh>Nam</GioiTinh>
+			<HeSoLuong>3.5</HeSoLuong>
+			<NamVaoLam>2010</NamVaoLam>
+			<ChucVu>Truong phong</ChucVu>
+			<HeSoChucVu>1.5</HeSoChucVu>
+		</CanBoQuanLy>
+	</CongTyABC>
+	<CongTyBCD ct ="BCD">
+		<NhanVien>
+			<MaNV>NV004</MaNV>
+			<TenNV>Pham Van D</TenNV>
+			<SoTienTaoRa>100000</SoTienTaoRa>
+		</NhanVien>
+		<NhanVien>
+			<MaNV>NV005</MaNV>
+			<TenNV>Hoang Thi E</TenNV>
+			<SoTienTaoRa>809000</SoTienTaoRa>
+		</NhanVien>
+		<NhanVien>
+			<MaNV>NV006</MaNV>
+			<TenNV>Do Van F</TenNV>
+			<SoTienTaoRa>20000</SoTienTaoRa>
+		</NhanVien>
+	</CongTyBCD>
+</TongCongTy>

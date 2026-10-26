@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{10554ABF-7E78-4A09-9AE2-4ABE29D6940B}|Bai2\\Bai2.csproj|solutionrelative:bai2\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10554ABF-7E78-4A09-9AE2-4ABE29D6940B}|Bai2\\Bai2.csproj|d:\\th-lthdt_2045250095_huynhvoanhkhang\\buoi6\\2045250095_huynhvoanhkhang\\bai2\\dskhachhang.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{10554ABF-7E78-4A09-9AE2-4ABE29D6940B}|Bai2\\Bai2.csproj|D:\\TH-LTHDT_2045250095_HuynhVoAnhKhang\\Buoi6\\2045250095_HuynhVoAnhKhang\\bai2\\dskhachhang.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{10554ABF-7E78-4A09-9AE2-4ABE29D6940B}|Bai2\\Bai2.csproj|solutionrelative:bai2\\dskhachhang.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "Bai2\\ListHoaDon.cs",
               "ToolTip": "D:\\TH-LTHDT_2045250095_HuynhVoAnhKhang\\Buoi6\\2045250095_HuynhVoAnhKhang\\Bai2\\ListHoaDon.cs",
               "RelativeToolTip": "Bai2\\ListHoaDon.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAA2wHoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAIBCwHUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T16:02:17.829Z",
               "EditorCaption": ""
@@ -99,8 +99,7 @@
               "RelativeToolTip": "Bai2\\DSKhachHang.xml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-10-13T14:08:46.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-13T14:08:46.509Z"
             },
             {
               "$type": "Document",
@@ -124,8 +123,7 @@
               "RelativeToolTip": "Bai2\\KhachHangCT.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA2wBsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T14:01:28.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-13T14:01:28.089Z"
             },
             {
               "$type": "Document",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "Bai2\\DaiLyCap1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAA6wAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T13:42:25.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-13T13:42:25.252Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "Bai2\\KhachHangCN.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAuwB0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T13:38:26.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-13T13:38:26.233Z"
             },
             {
               "$type": "Document",
@@ -163,8 +159,7 @@
               "RelativeToolTip": "Bai2\\KhachHang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAA6wCYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T13:24:51.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-13T13:24:51.27Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "Bai2\\Program.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAA2wCoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T13:16:06.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-13T13:16:06.445Z"
             },
             {
               "$type": "Document",

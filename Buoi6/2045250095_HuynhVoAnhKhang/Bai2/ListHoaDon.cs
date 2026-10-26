@@ -25,6 +25,7 @@ namespace Bai2
         {
             XmlDocument read = new XmlDocument();
             read.Load(file);
+
             XmlNode root = read.SelectSingleNode("/CongTy");
             congTy = root["TenCongTy"].InnerText;
             sdt = root["DienThoai"].InnerText;
@@ -72,6 +73,11 @@ namespace Bai2
         {
             return dsKH.Sum(t => t.ThanhTien());
         }
+        public void MaxList()
+        {
+            int max = dsKH.Max(t => t.Sl);
+            dsKH = dsKH.Where(g => g.Sl == max).ToList();
+        }
 
         public KhachHang MaxKhachHang()
         {
@@ -106,23 +112,15 @@ namespace Bai2
         {
             Console.Write("Nhap ma: ");
             string ma = Console.ReadLine();
-            bool find = false;
-            foreach(KhachHang kh in dsKH)
+            if(string.IsNullOrWhiteSpace(ma))
             {
-                if(kh.MaKH.Equals(ma, StringComparison.OrdinalIgnoreCase))
-                {
-                    kh.Xuat();
-                    find = true;
-                    break;
-                }
-                
+                Console.WriteLine("Ma khach hang khong hop le.");
+                return;
             }
-            if (!find)
+            foreach(KhachHang kh in dsKH.Where(k => k.MaKH.Equals(ma, StringComparison.OrdinalIgnoreCase)))
             {
-                Console.WriteLine("Khach hang la");
+                kh.Xuat();
             }
         }
-
-
     }
 }

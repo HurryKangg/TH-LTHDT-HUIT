@@ -82,17 +82,25 @@ namespace Bai4
             Console.WriteLine($"TỔNG SỐ THÍ SINH RỚT: {tongThiSinhRot}");
         }
 
-        public bool TimMaSinhVien(ThiSinh P)
+        public void TimMaSinhVien()
         {
             if (listTS.Count == 0)
             {
                 Console.WriteLine("DANH SÁCH THÍ SINH RỖNG!!!");
-                return false;
+                return;
             }
-            ThiSinh tim = listTS.Find(t => t.MaThiSinh == P.MaThiSinh);
-            if(tim == null)
-                return false;
-            return true;            
+            Console.Write("Tìm mã thí sinh: ");
+            string ma = Console.ReadLine();         
+            if(string.IsNullOrWhiteSpace(ma))
+            {
+                Console.WriteLine("Mã thí sinh không hợp lệ.");
+                return;
+            }
+            foreach(ThiSinh ts in listTS.Where(t => t.MaThiSinh.Equals(ma, StringComparison.OrdinalIgnoreCase)))
+            {
+                ts.Xuat();
+            }
+            Console.WriteLine("Không tìm thấy thí sinh!");
         }
 
         public void Sort()

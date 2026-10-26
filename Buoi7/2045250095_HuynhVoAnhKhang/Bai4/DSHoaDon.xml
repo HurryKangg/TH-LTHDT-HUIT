@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachHoaDon>
+	<HoaDon Loai="VIP">
+		<MaSo>HD001</MaSo>
+		<HoTenKhach>Nguyễn Văn A</HoTenKhach>
+		<NgayLap>2024-11-01</NgayLap>
+		<MaHang>X01</MaHang>
+		<TenHang>Xăng RON95</TenHang>
+		<DonGia>24000</DonGia>
+		<SoLuong>60</SoLuong>
+	</HoaDon>
+	<HoaDon Loai="VIP">
+		<MaSo>HD002</MaSo>
+		<HoTenKhach>Nguyễn Văn A</HoTenKhach>
+		<NgayLap>2023-10-01</NgayLap>
+		<MaHang>X01</MaHang>
+		<TenHang>Xăng E5 RON92</TenHang>
+		<DonGia>24000</DonGia>
+		<SoLuong>60</SoLuong>
+	</HoaDon>
+	<HoaDon Loai="ThanThiet">
+		<MaSo>HD003</MaSo>
+		<HoTenKhach>Trần Thị B</HoTenKhach>
+		<NgayLap>2024-11-02</NgayLap>
+		<MaHang>D01</MaHang>
+		<TenHang>Dầu DO</TenHang>
+		<DonGia>20000</DonGia>
+		<SoLuong>70</SoLuong>
+	</HoaDon>
+	<HoaDon Loai="VangLai">
+		<MaSo>HD004</MaSo>
+		<HoTenKhach></HoTenKhach>
+		<NgayLap>2024-11-03</NgayLap>
+		<MaHang>X01</MaHang>
+		<TenHang>Xăng RON95</TenHang>
+		<DonGia>24000</DonGia>
+		<SoLuong>50</SoLuong>
+	</HoaDon>
+</DanhSachHoaDon>

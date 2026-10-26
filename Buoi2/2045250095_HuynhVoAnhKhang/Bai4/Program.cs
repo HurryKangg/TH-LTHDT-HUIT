@@ -42,21 +42,7 @@ namespace Bai4
                         ds.TinhTongSoThiSinh();
                         break;
                     case 5:
-                        Console.Write("Tìm mã thí sinh: ");
-                        string ma = Console.ReadLine();
-                        ThiSinh maTS = new ThiSinh();
-                        maTS.MaThiSinh = ma;
-                        if (ds.TimMaSinhVien(maTS))
-                        {
-                            Console.WriteLine("Tìm thấy thí sinh:");
-                            foreach (ThiSinh ts in ds.ListTS)
-                                if (ts.MaThiSinh == maTS.MaThiSinh)
-                                    ts.Xuat();
-                        }
-                        else
-                        {
-                            Console.WriteLine("Không tìm thấy thí sinh!");
-                        }
+                        ds.TimMaThiSinh();
                         break;
                     case 6:
                         

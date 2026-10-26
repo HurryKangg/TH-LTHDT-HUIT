@@ -31,7 +31,7 @@
 		<!-- ============================================ -->
 		<!-- ĐẠI LÝ CẤP 1 (LoaiKH = 2)                    -->
 		<!-- ============================================ -->
-		<HoaDon>
+		<HoaDon LoaiJH="1">
 			<LoaiKH>2</LoaiKH>
 			<MaKH>DL001</MaKH>
 			<TenKH>Dai Ly Dien Lanh Mien Nam</TenKH>

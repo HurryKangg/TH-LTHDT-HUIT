@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CongTy>
+	<TenCongTy>Cong Ty TNHH May Lanh ABC</TenCongTy>
+	<DienThoai>028-1234-5678</DienThoai>
+	<DiaChi>123 Nguyen Van Linh, Quan 7, TP.HCM</DiaChi>
+	<HoaDons>
+        <HoaDonCaNhan loai ="1">
+          <MaKH>CN001</MaKH>
+          <TenKH>Nguyen Van A</TenKH>
+          <SoLuong>10</SoLuong>
+          <GiaBan>8000000</GiaBan>
+          <KhoangCach>8</KhoangCach>
+        </HoaDonCaNhan>
+
+        <HoaDonCaNhan loai ="1">
+          <MaKH>CN002</MaKH>
+          <TenKH>Tran Thi B</TenKH>
+          <SoLuong>3</SoLuong>
+          <GiaBan>10000000</GiaBan>
+          <KhoangCach>12</KhoangCach>
+        </HoaDonCaNhan>
+
+        <HoaDonDaiLy loai ="2">
+          <MaKH>DL001</MaKH>
+          <TenKH>Dai ly Minh Tam</TenKH>
+          <SoLuong>20</SoLuong>
+          <GiaBan>7000000</GiaBan>
+          <NamHopTac>5</NamHopTac>
+        </HoaDonDaiLy>
+
+        <HoaDonCongTy loai ="3">
+          <MaKH>CT001</MaKH>
+          <TenKH>Cong ty ABC Corp</TenKH>
+          <SoLuong>60</SoLuong>
+          <GiaBan>9000000</GiaBan>
+          <SoNhanVien>200</SoNhanVien>
+        </HoaDonCongTy>
+
+        <HoaDonCongTy loai ="3">
+          <MaKH>CT002</MaKH>
+          <TenKH>Cong ty Hieu Dat</TenKH>
+          <SoLuong>10</SoLuong>
+          <GiaBan>9500000</GiaBan>
+          <SoNhanVien>50</SoNhanVien>
+        </HoaDonCongTy>
+  </HoaDons>
+</CongTy>
