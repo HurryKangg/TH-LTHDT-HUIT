@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UberData>
+
+  <!-- ========== DANH SÁCH XE ========== -->
+  <Vehicles>
+
+      <!-- ========== XE GẮN MÁY ========== -->
+      <XeGanMays Loai="ganMay">
+        <XeGanMay>
+          <MaXe>V001</MaXe>
+          <BienSo>59-X1 123.45</BienSo>
+        </XeGanMay>
+        <XeGanMay>
+          <MaXe>V002</MaXe>
+          <BienSo>59-X2 678.90</BienSo>
+        </XeGanMay>
+      </XeGanMays>
+
+      <!-- ========== Ô TÔ ========== -->
+      <OTos Loai="oto"> 
+        <OTo>
+          <MaXe>V003</MaXe>
+          <BienSo>51F-111.11</BienSo>
+          <SoCho>4</SoCho>
+        </OTo>
+        <OTo>
+          <MaXe>V004</MaXe>
+          <BienSo>51F-222.22</BienSo>
+          <SoCho>7</SoCho>
+        </OTo>
+      </OTos>
+
+      <!-- ========== Ô TÔ TẢI ========== -->
+      <OToTais Loai="tai">
+        <OToTai>
+          <MaXe>V005</MaXe>
+          <BienSo>51C-333.33</BienSo>
+          <TrongTai>3</TrongTai>
+        </OToTai>
+        <OToTai>
+          <MaXe>V006</MaXe>
+          <BienSo>51C-444.44</BienSo>
+          <TrongTai>5.5</TrongTai>
+        </OToTai>
+      </OToTais>
+
+</Vehicles>
+
+
+  <!-- ========== DANH SÁCH KHÁCH HÀNG ========== -->
+  <Customers>
+    <Customer>
+      <Username>khach01</Username>
+      <Password>123</Password>
+      <PhoneNumber>0901234567</PhoneNumber>
+      <Status>online</Status>
+      <CustomerType>VIP</CustomerType>
+    </Customer>
+    <Customer>
+      <Username>khach02</Username>
+      <Password>456</Password>
+      <PhoneNumber>0902345678</PhoneNumber>
+      <Status>offline</Status>
+      <CustomerType>THUONG</CustomerType>
+    </Customer>
+  </Customers>
+
+  <!-- ========== DANH SÁCH TÀI XẾ ========== -->
+  <Drivers>
+    <Driver>
+      <Username>tx01</Username>
+      <Password>123</Password>
+      <PhoneNumber>0911111111</PhoneNumber>
+      <Status>online</Status>
+      <DriverId>D01</DriverId>
+      <DriverName>Nguyễn Văn A</DriverName>
+      <VehicleId>V001</VehicleId>
+    </Driver>
+    <Driver>
+      <Username>tx02</Username>
+      <Password>123</Password>
+      <PhoneNumber>0922222222</PhoneNumber>
+      <Status>online</Status>
+      <DriverId>D02</DriverId>
+      <DriverName>Trần Văn B</DriverName>
+      <VehicleId>V002</VehicleId>
+    </Driver>
+    <Driver>
+      <Username>tx03</Username>
+      <Password>123</Password>
+      <PhoneNumber>0933333333</PhoneNumber>
+      <Status>offline</Status>
+      <DriverId>D03</DriverId>
+      <DriverName>Lê Văn C</DriverName>
+      <VehicleId>V004</VehicleId>
+    </Driver>
+  </Drivers>
+
+  <!-- ========== DANH SÁCH CHUYẾN XE ========== -->
+  <Trips>
+    <Trip>
+      <TripId>T001</TripId>
+      <DriverId>D01</DriverId>
+      <CustomerUsername>khach01</CustomerUsername>
+      <PickupAddress>100</PickupAddress>
+      <DropAddress>200</DropAddress>
+      <Distance>10</Distance>
+      <StartTime>23:00</StartTime>
+      <TripDate>2026-10-26</TripDate>
+    </Trip>
+    <Trip>
+      <TripId>T002</TripId>
+      <DriverId>D02</DriverId>
+      <CustomerUsername>khach01</CustomerUsername>
+      <PickupAddress>150</PickupAddress>
+      <DropAddress>250</DropAddress>
+      <Distance>20</Distance>
+      <StartTime>10:00</StartTime>
+      <TripDate>2026-10-26</TripDate>
+    </Trip>
+    <Trip>
+      <TripId>T003</TripId>
+      <DriverId>D03</DriverId>
+      <CustomerUsername>khach02</CustomerUsername>
+      <PickupAddress>300</PickupAddress>
+      <DropAddress>400</DropAddress>
+      <Distance>25</Distance>
+      <StartTime>09:00</StartTime>
+      <TripDate>2026-10-26</TripDate>
+    </Trip>
+  </Trips>
+
+</UberData>

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bai5_BTVN
+namespace Bai4
 {
-    internal class TaiXe
+    public interface IVehicle
     {
+        string LoaiXe { get; set; }
     }
 }

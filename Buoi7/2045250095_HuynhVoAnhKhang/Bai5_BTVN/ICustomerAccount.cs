@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Bai5_BTVN
 {
-    public abstract class CuocGoiKhachHang
+    public interface ICustomerAccount: IAccount
     {
-
+        void GoiXe(string loaiXe, string diaChi);
     }
 }

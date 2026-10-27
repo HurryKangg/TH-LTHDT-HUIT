@@ -6,16 +6,15 @@ using System.Threading.Tasks;
 
 namespace Bai5_BTVN
 {
-    public class TaiKhoanKH : TaiKhoan
+    public class TaiKhoanKH : TaiKhoan, IAccount
     {
-        protected string loai;
-        CongTyUber xe;
+        protected string loai;   
         public string Loai
         {
             get { return loai; }
             set
             {
-                if (value == "VIP" || value == "Normal")
+                if (value == "VIP")
                     loai = value;
                 else
                     loai = "Normal";
@@ -26,38 +25,29 @@ namespace Bai5_BTVN
         public TaiKhoanKH() : base()
         {
             loai = "Normal";
-            xe = new CongTyUber();
         }
 
-        public TaiKhoanKH(string user, string pass, string phone, bool IsLog, string loai, CongTyUber ct) :
+        public TaiKhoanKH(string user, string pass, string phone, bool IsLog, string loai) :
             base(user, pass, phone, IsLog)
         {
             this.Loai = loai;
-            this.xe = ct;
         }
 
         public void GoiXe(string loaiXe, string diaChi)
         {
-            if (TrangThai)
-            {
-                Console.WriteLine("Tiến hành gọi xe...");
-            }
-            if (loaiXe.Equals(xe.GanMay, StringComparison.OrdinalIgnoreCase))
-            {
-                loaiXe = xe.GanMay;
-            } else if(loaiXe.Equals(xe.OTo, StringComparison.OrdinalIgnoreCase))
-            {
-                loaiXe = xe.OTo;
-            }else if(loaiXe.Equals(xe.OtoTai, StringComparison.OrdinalIgnoreCase))
-            {
-                loaiXe = xe.OtoTai;
-            } else
-            {
-                Console.WriteLine("Không có những loại xe trên...");
-                return;
-            }
-
-            Console.WriteLine($"Loại xe: {loaiXe} - địa chỉ: {diaChi}");
+                if (!TrangThai)
+                {
+                    Console.WriteLine("Bạn cần đăng nhập trước khi gọi xe!");
+                    return;
+                }
+                Console.WriteLine($"Khách {Username} gọi {loaiXe} tại {diaChi}");
+           
+        }   
+        public bool IsVIP()
+        {
+            if(loai.Equals("VIP", StringComparison.OrdinalIgnoreCase))
+                return true;
+            else return false;
         }
 
         public override void Xuat()

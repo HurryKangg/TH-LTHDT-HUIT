@@ -43,17 +43,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CongTyUber.cs" />
+    <Compile Include="ChuyenXe.cs" />
+    <Compile Include="GanMay.cs" />
+    <Compile Include="ICustomerAccount.cs" />
+    <Compile Include="IDriverAccount.cs" />
+    <Compile Include="ITraPhi.cs" />
+    <Compile Include="Oto.cs" />
+    <Compile Include="Tai.cs" />
+    <Compile Include="UberCity.cs" />
+    <Compile Include="Vehicle.cs" />
+    <Compile Include="IAccount.cs" />
+    <Compile Include="IVehicle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="CuocGoiKhachHang.cs" />
     <Compile Include="TaiKhoan.cs" />
     <Compile Include="TaiKhoanKH.cs" />
-    <Compile Include="TaiKhoanTaXe.cs" />
-    <Compile Include="TaiXe.cs" />
+    <Compile Include="TaiKhoanTaiXe.cs" />
+    <Compile Include="XeGanMay.cs" />
+    <Compile Include="XeOto.cs" />
+    <Compile Include="XeTaiOto.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="UberCompany.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

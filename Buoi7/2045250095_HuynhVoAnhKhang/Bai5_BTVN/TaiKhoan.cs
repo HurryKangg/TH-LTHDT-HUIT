@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bai5_BTVN
 {
-    public class TaiKhoan
+    public class TaiKhoan: IAccount
     {
         protected string username;
         protected string password;
@@ -59,7 +59,7 @@ namespace Bai5_BTVN
                 return true;
             }
 
-            if(this.Username == user || this.Password == pass)
+            if(this.Username == user && this.Password == pass)
             {
                 TrangThai = true;
                 Console.WriteLine($"{user} - {pass} connected account....");
@@ -74,13 +74,14 @@ namespace Bai5_BTVN
             if (!TrangThai)
             {
                 Console.WriteLine("Logout is succesfull...!!!");
-                return true;
+                return false;
             }
+            TrangThai = false;
             Console.WriteLine("Goodbye...");
-            return false;
+            return true;
         }
 
-        public void TakeAddress()
+        public void GetAddress()
         {
             Random r = new Random();
             if (!TrangThai)
